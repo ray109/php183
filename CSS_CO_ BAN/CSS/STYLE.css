@@ -1,0 +1,57 @@
+.mau_vang{
+    color: yellow;
+    font-size:40px;
+}
+
+.mau_xanh{
+    color:mediumseagreen;
+    font-size: 50px;
+}
+
+#li1{
+    color: red;
+    font-size: 50px;
+}
+
+.mau_cam
+{
+    color: orange;
+
+}
+
+
+
+.box{
+    height: 1024px;
+    width: 576px;
+    background-color: plum;
+    background-image: url("https://cdn3.iconfinder.com/data/icons/vector-icons-6/96/256-512.png");
+
+}
+
+#h2{
+    color:orchid;
+    font-size: 14px;
+}
+
+.box2{
+    color:orangered;
+    font-size: 89px;
+    background-image: url("https://cdn3.iconfinder.com/data/icons/vector-icons-6/96/256-512.png");
+    height: 1024px;
+    width: 976px;
+    background-color:olive ;
+    margin-bottom: 34px;
+    padding-top: 30pt;
+    border-left: orange;
+
+}
+
+
+.box3{
+    color:orangered;
+    font-size: 94px;
+    background-image: url("https://wiki-travel.com.vn/Uploads/Picture/Thaophuongnguyen-164612084606-sa-pa.jpg");
+    height: 2091px;
+    width: 576px;
+    background-color:olive ;

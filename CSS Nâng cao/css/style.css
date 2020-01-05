@@ -1,0 +1,62 @@
+.box1{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    float: left;
+    font-size: 50px;
+    text-align: center;
+    line-height: 100px;
+    
+}
+
+.box1 span{
+    display: none;
+}
+
+.box1:hover span{
+    display:block;
+}
+    
+    
+}
+
+.clear-both{
+    clear:both;
+}
+
+.box2{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.box2:hover{
+    background-color:yellow;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+
+
+.list-box{
+    background-color: green;
+    overflow: hidden;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+video{
+    width: 50%;
+}
+
+audio{
+    width: 46%;
+    height: 23px;
+}

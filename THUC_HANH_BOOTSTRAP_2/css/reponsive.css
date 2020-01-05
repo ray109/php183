@@ -1,0 +1,40 @@
+@media only screen and (max-width:992px)
+{
+
+    .text-menu{
+        display:block;
+    }
+#slide,#banner{
+    display: none;
+}
+
+
+
+#logo{
+     text-align: center;
+     padding-bottom: 10px;   
+
+    }
+
+
+#search input{
+ width: 80%;
+
+}
+#search button{
+width: 20%;
+}
+.info{
+    margin-bottom: 30px;
+}
+.sup-cart{
+    position: absolute;
+    right: 10px;
+    top:-74px;
+}
+
+#logo{
+    text-align: left;
+}
+
+}
